@@ -1,0 +1,4 @@
+<bean id="hostel" class="com.DanskeIt.Example.Hostel" >
+	<property name="hostelName" value="Women's Hostel"></property>
+	<property name="city" value="Bangalore"></property>
+</bean>

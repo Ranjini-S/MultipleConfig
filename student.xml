@@ -1,0 +1,4 @@
+<bean id="student" class="com.DanskeIt.Example.Student" autowire="byName">
+	<property name="name" value="Ranjini"></property>
+	<property name="Id" value="RANS0001"></property>
+</bean>
